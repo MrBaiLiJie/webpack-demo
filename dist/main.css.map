@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-demo/./src/one.css","webpack://webpack-demo/./src/two.css"],"names":[],"mappings":"AAAA;EACE;AACF,C;ACFA;EACE,eAAe;AACjB,C","file":"main.css","sourcesContent":[".one {\r\n  color: #ffffff\r\n}",".two {\r\n  font-size: 10px;\r\n}"],"sourceRoot":""}
